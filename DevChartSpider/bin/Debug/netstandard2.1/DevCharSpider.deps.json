@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "DevCharSpider/1.0.0": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.46",
+          "Jc.Net": "1.1.11"
+        },
+        "runtime": {
+          "DevCharSpider.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.46": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.46.0",
+            "fileVersion": "1.11.46.0"
+          }
+        }
+      },
+      "Jc.Net/1.1.11": {
+        "runtime": {
+          "lib/netstandard2.1/Jc.Net.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevCharSpider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.46": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dLMn4EVfJBHWmWK4Uh0XGD76FPLHI0qr2Tm0s1m/xmgiHb1JUb9zB8AzO8HtrkBBlMN6JfCUBYddhqC0hZNR+g==",
+      "path": "htmlagilitypack/1.11.46",
+      "hashPath": "htmlagilitypack.1.11.46.nupkg.sha512"
+    },
+    "Jc.Net/1.1.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KNLC0HU/FcZJ1/Y6d3tX+aPw2N/VSU9z5MI9aumMzgvgfTxewR+cXL6GPgquJxsiRyecpva/Zlb3Mcph+D/Vpw==",
+      "path": "jc.net/1.1.11",
+      "hashPath": "jc.net.1.1.11.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "FilmCode": "Fuji Eterna-RDS 4791",
+    "DeveloperCode": null,
+    "FilmName": "Fuji Eterna-RDS 4791",
+    "DeveloperName": "Bellini DF2 Duo Step",
+    "Dilution": "stock",
+    "ISO": "20",
+    "Film35": "4+4",
+    "Film120": "",
+    "Sheet": "",
+    "Temp": "20C",
+    "NotesUrl": ""
+  },
+  {
+    "FilmCode": "Fuji Eterna-RDS 4791",
+    "DeveloperCode": null,
+    "FilmName": "Fuji Eterna-RDS 4791",
+    "DeveloperName": "D-76",
+    "Dilution": "1+1",
+    "ISO": "6",
+    "Film35": "11",
+    "Film120": "",
+    "Sheet": "",
+    "Temp": "20C",
+    "NotesUrl": ""
+  },
+  {
+    "FilmCode": "Fuji Eterna-RDS 4791",
+    "DeveloperCode": null,
+    "FilmName": "Fuji Eterna-RDS 4791",
+    "DeveloperName": "Diafine",
+    "Dilution": "stock",
+    "ISO": "20",
+    "Film35": "4+4",
+    "Film120": "",
+    "Sheet": "",
+    "Temp": "20C",
+    "NotesUrl": ""
+  },
+  {
+    "FilmCode": "Fuji Eterna-RDS 4791",
+    "DeveloperCode": null,
+    "FilmName": "Fuji Eterna-RDS 4791",
+    "DeveloperName": "HC-110",
+    "Dilution": "B",
+    "ISO": "6",
+    "Film35": "12",
+    "Film120": "",
+    "Sheet": "",
+    "Temp": "20C",
+    "NotesUrl": "[notes]"
+  },
+  {
+    "FilmCode": "Fuji Eterna-RDS 4791",
+    "DeveloperCode": null,
+    "FilmName": "Fuji Eterna-RDS 4791",
+    "DeveloperName": "ID-11",
+    "Dilution": "1+1",
+    "ISO": "6",
+    "Film35": "11",
+    "Film120": "",
+    "Sheet": "",
+    "Temp": "20C",
+    "NotesUrl": ""
+  },
+  {
+    "FilmCode": "Fuji Eterna-RDS 4791",
+    "DeveloperCode": null,
+    "FilmName": "Fuji Eterna-RDS 4791",
+    "DeveloperName": "Nucleol BF200",
+    "Dilution": "20+15+965",
+    "ISO": "25",
+    "Film35": "9",
+    "Film120": "",
+    "Sheet": "",
+    "Temp": "20C",
+    "NotesUrl": ""
+  },
+  {
+    "FilmCode": "Fuji Eterna-RDS 4791",
+    "DeveloperCode": null,
+    "FilmName": "Fuji Eterna-RDS 4791",
+    "DeveloperName": "Ultrafin",
+    "Dilution": "1+20",
+    "ISO": "15",
+    "Film35": "15:45",
+    "Film120": "",
+    "Sheet": "",
+    "Temp": "20C",
+    "NotesUrl": ""
+  }
+]

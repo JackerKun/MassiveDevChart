@@ -1,0 +1,41 @@
+[
+  {
+    "FilmCode": "BCG P-400",
+    "DeveloperCode": null,
+    "FilmName": "BCG P-400",
+    "DeveloperName": "D-76",
+    "Dilution": "stock",
+    "ISO": "400",
+    "Film35": "9:30",
+    "Film120": "",
+    "Sheet": "",
+    "Temp": "20C",
+    "NotesUrl": "[notes]"
+  },
+  {
+    "FilmCode": "BCG P-400",
+    "DeveloperCode": null,
+    "FilmName": "BCG P-400",
+    "DeveloperName": "ID-11",
+    "Dilution": "stock",
+    "ISO": "400",
+    "Film35": "9:30",
+    "Film120": "",
+    "Sheet": "",
+    "Temp": "20C",
+    "NotesUrl": "[notes]"
+  },
+  {
+    "FilmCode": "BCG P-400",
+    "DeveloperCode": null,
+    "FilmName": "BCG P-400",
+    "DeveloperName": "Rodinal",
+    "Dilution": "1+50",
+    "ISO": "400",
+    "Film35": "13",
+    "Film120": "",
+    "Sheet": "",
+    "Temp": "20C",
+    "NotesUrl": "[notes]"
+  }
+]

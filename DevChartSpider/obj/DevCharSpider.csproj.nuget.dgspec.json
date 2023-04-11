@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevCharSpider/DevCharSpider.csproj": {}
+  },
+  "projects": {
+    "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevCharSpider/DevCharSpider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevCharSpider/DevCharSpider.csproj",
+        "projectName": "DevCharSpider",
+        "projectPath": "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevCharSpider/DevCharSpider.csproj",
+        "packagesPath": "/Users/jackerkun/.nuget/packages/",
+        "outputPath": "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevCharSpider/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jackerkun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "http://192.168.1.57:8081": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.46, )"
+            },
+            "Jc.Net": {
+              "target": "Package",
+              "version": "[1.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

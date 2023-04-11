@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevChartSpider", "DevChartSpider\DevChartSpider.csproj", "{00D725F3-892C-44C6-A270-87F4DC5741DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevChartSpiderConsole", "DevChartSpiderConsole\DevChartSpiderConsole.csproj", "{848CEFAA-8A13-4092-9A7A-668A88142743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevChartWebMvc", "DevChartWebMvc\DevChartWebMvc.csproj", "{CFBF03EE-DAA6-49BA-90DC-26AB3EF2E459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00D725F3-892C-44C6-A270-87F4DC5741DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D725F3-892C-44C6-A270-87F4DC5741DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D725F3-892C-44C6-A270-87F4DC5741DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D725F3-892C-44C6-A270-87F4DC5741DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{848CEFAA-8A13-4092-9A7A-668A88142743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848CEFAA-8A13-4092-9A7A-668A88142743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848CEFAA-8A13-4092-9A7A-668A88142743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848CEFAA-8A13-4092-9A7A-668A88142743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBF03EE-DAA6-49BA-90DC-26AB3EF2E459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBF03EE-DAA6-49BA-90DC-26AB3EF2E459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBF03EE-DAA6-49BA-90DC-26AB3EF2E459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBF03EE-DAA6-49BA-90DC-26AB3EF2E459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,155 @@
+﻿
+@{
+    ViewData["Title"] = "Home page";
+    var baseInfo= PubConst.DevChart.GetBaseInfo();
+}
+<style>
+
+        table {
+          /*border-collapse: collapse;*/
+          /*border-spacing: 0;*/
+          width: 100%;
+          border: 1px solid #ddd;
+        }
+        th, td {
+          text-align: left;
+          padding: 5px;
+        }
+        
+        tr:nth-child(even) {
+          background-color: #f2f2f2;
+        }
+        thead.tr{
+         background-color: #f2f2f2;
+         font-size: 12px;
+        }
+</style>
+
+@* 左侧选项 *@
+<div class="text-left">
+    <div>
+        @* <div class="text-center display-4"> *@
+        @*     <input type="text" id="keyword" placeholder="input key word" style="width: 100%"> *@
+        @*     <input type="button" value="Search" style="margin-top: 5px;"/> *@
+        @* </div> *@
+        
+        <div class="display-2">
+            <h5 class="display-4" style="margin-bottom: -0.5rem">Films</h5>
+            <select class="display-2" id="selectFilm" onchange="selectFilmChange(this)" style="width:100%">
+                <option value="selectFilm">-----Select Film-----</option>
+                @foreach (var f in baseInfo.Films)
+                {
+                    <option value="@f">@f</option>
+                }
+            </select>
+        </div>
+        <br/>
+
+        <div class="display-2">
+            <h5 class="display-4" style="margin-bottom: -0.5rem">Developer</h5>
+            <select class="display-2" id="selectDev" onchange="selectDevChange(this)" style="width:100%">
+                <option value="selectDev">-----Select Dev----- </option>
+                @foreach (var f in baseInfo.Devs)
+                {
+                    <option value="@f">@f</option>
+                }
+            </select>
+        </div>
+    </div>
+    <h1 class="display-2"></h1>
+
+    <h1 class="display-4">Charts</h1>
+    <div>
+        <table>
+            <thead>
+            <tr>
+                <th>Film</th>
+                <th>Developer</th>
+                <th>Dilution</th>
+                <th>ISO</th>
+                <th>35mm</th>
+                <th>120</th>
+                <th>Temp</th>
+            </tr>
+            </thead>
+            <tbody id="chartsBody">
+                
+            </tbody>
+        </table>
+    </div>
+    
+</div>
+
+<script type="text/javascript">
+
+var filmName="";
+var devName="";
+
+//胶卷选择
+function selectFilmChange(e)
+{
+        console.log(e);
+        filmName=$(e).val();
+        if (filmName=="selectFilm")
+        {
+            filmName="";
+        }
+        console.log(filmName);
+        doAjax();
+}
+ 
+//药水选择
+function selectDevChange(e)
+{
+        console.log(e);
+        devName=$(e).val();
+        if (devName=="selectDev")
+        {
+            devName="";
+        }
+        console.log(devName);
+        doAjax();
+}
+
+function doAjax()
+{
+    $.ajax({
+            url: "/Home/SelectByFilmAndDev",  
+            type: "GET", 
+            data:{filmName:filmName,devName:devName}, 
+            dataType: "json",  
+            success: function (result) { 
+                console.log(result);  
+                loadCharts(result);
+            },
+            error: function () { 
+               loadCharts(null);
+            }
+        });
+}
+
+//加载数据
+function loadCharts(data)
+{
+    $("#chartsBody").html("");
+    var strHtml="";
+    if (data==null)
+    {
+        return;
+    }
+    for (var i=0;i<data.length;i++)
+        {
+            strHtml+=`
+            <tr>
+                 <th>${data[i].filmName}</th>
+                 <th>${data[i].developerName}</th>
+                 <th>${data[i].dilution}</th>
+                 <th>${data[i].iso}</th>
+                 <th>${data[i].film35}</th>
+                 <th>${data[i].film120}</th>
+                 <th>${data[i].temp}</th>
+             </tr>`;
+        }
+    $("#chartsBody").html(strHtml);
+}
+</script>

@@ -1,0 +1,28 @@
+[
+  {
+    "FilmCode": "Adox Scala%",
+    "DeveloperCode": null,
+    "FilmName": "Adox Scala 50",
+    "DeveloperName": "D-19",
+    "Dilution": "1+1",
+    "ISO": "50",
+    "Film35": "14",
+    "Film120": "",
+    "Sheet": "",
+    "Temp": "20C",
+    "NotesUrl": "[notes]"
+  },
+  {
+    "FilmCode": "Adox Scala%",
+    "DeveloperCode": null,
+    "FilmName": "Adox Scala 50",
+    "DeveloperName": "D-19",
+    "Dilution": "1+1",
+    "ISO": "100",
+    "Film35": "17",
+    "Film120": "",
+    "Sheet": "",
+    "Temp": "20C",
+    "NotesUrl": "[notes]"
+  }
+]

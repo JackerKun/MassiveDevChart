@@ -1,0 +1,149 @@
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/appsettings.Development.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/appsettings.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/DevChartWebMvc.staticwebassets.runtime.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/DevChartWebMvc
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/DevChartWebMvc.deps.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/DevChartWebMvc.runtimeconfig.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/DevChartWebMvc.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/DevChartWebMvc.pdb
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/HtmlAgilityPack.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Jc.Net.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/DevChartSpider.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/DevChartSpider.pdb
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/DevChartWebMvc.csproj.AssemblyReference.cache
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/DevChartWebMvc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/DevChartWebMvc.AssemblyInfoInputs.cache
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/DevChartWebMvc.AssemblyInfo.cs
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/DevChartWebMvc.csproj.CoreCompileInputs.cache
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/DevChartWebMvc.MvcApplicationPartsAssemblyInfo.cache
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/DevChartWebMvc.RazorAssemblyInfo.cache
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/DevChartWebMvc.RazorAssemblyInfo.cs
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/staticwebassets.build.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/staticwebassets.development.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/scopedcss/bundle/DevChartWebMvc.styles.css
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/scopedcss/projectbundle/DevChartWebMvc.bundle.scp.css
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/DevChartWebMvc.csproj.CopyComplete
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/DevChartWebMvc.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/refint/DevChartWebMvc.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/DevChartWebMvc.pdb
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/DevChartWebMvc.genruntimeconfig.cache
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/obj/Debug/net6.0/ref/DevChartWebMvc.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/config.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Adox CHM.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Adox CHS 100 II.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Adox CHS.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Adox CMS 20 II.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Adox HR-50_IR-HR.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Adox Ort 25.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Adox Pan 25.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Adox Scala.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Adox Silvermax.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Agfa Aviphot.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Agfa Cinerex.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Agfa Copex.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Agfa Scala.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/AgfaPhoto APX 100.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/AgfaPhoto APX 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Argenti films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Arista EDU Ultra.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Arista Ortho Litho.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Arista Premium.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ars-imago films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Astrum films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/BCG P-400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Bergger Pancro 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Bluefire films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/CatLABS films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/CHM Universal.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/CineStill BwXX.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Contrasto 200.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Dry Plates.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Dubblefilm films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Eastman films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Efke 100.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Efke 25.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Efke 50.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Efke IR820.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/ERA films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Etude Pan.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ferrania P30.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Filmotec films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Foma Retropan 320.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Fomapan 100.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Fomapan 200.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Fomapan 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/FPP films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Fuji HR_RX_C.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Fuji Neopan 100ss.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Fuji Neopan 1600.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Fuji Neopan 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Fuji Neopan Acros II.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Fuji RDS 4791.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Holga 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ilford Delta 100.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ilford Delta 3200.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ilford Delta 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ilford FP4+.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ilford HP5+.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ilford Ortho+.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ilford Pan 100.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ilford Pan 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ilford Pan F+.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ilford SFX 200.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ilford Surveillance.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ilford XP2.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Imago 320.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/JCH Streetpan.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kentmere films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kiki Pan 320.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kodak 2*** films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kodak BW400CN.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kodak Direct Positive.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kodak Double-X.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kodak Hawkeye.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kodak HIE Infrared.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kodak Plus-X.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kodak TMax 100.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kodak TMax 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kodak TMax P3200.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kodak Tri-X 320.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kodak Tri-X 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Kosmo Foto films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Legacy Pro films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Lomo Babylon.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Lomo Berlin.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Lomo Earl Grey.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Lomo Fantome.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Lomo Lady Grey.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Lomo Orca 110.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Lomo Potsdam.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Low Speed B&W.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Lucky films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Maco films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/New Classic EZ400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/NoColorStudio films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Orwo films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Polypan F.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/ReraPan.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Rollei ATP_ATO.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Rollei Blackbird.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Rollei Infrared IR400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Rollei Ortho.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Rollei Paul & Reinhold.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Rollei Retro 400S.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Rollei Retro 80S.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Rollei RPX 100.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Rollei RPX 25.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Rollei RPX 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Rollei Superpan.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Santa RAE 1000.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Shanghai films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Silberra films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Street Candy.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Svema films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Tasma films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Type-D films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Ultrafine films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Debug/net6.0/Films/Washi films.json

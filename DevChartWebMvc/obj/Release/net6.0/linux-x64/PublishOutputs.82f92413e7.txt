@@ -1,0 +1,438 @@
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/DevChartWebMvc
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/appsettings.Development.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/appsettings.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/config.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Adox CHM.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Adox CHS 100 II.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Adox CHS.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Adox CMS 20 II.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Adox HR-50_IR-HR.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Adox Ort 25.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Adox Pan 25.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Adox Scala.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Adox Silvermax.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Agfa Aviphot.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Agfa Cinerex.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Agfa Copex.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Agfa Scala.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/AgfaPhoto APX 100.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/AgfaPhoto APX 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Argenti films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Arista EDU Ultra.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Arista Ortho Litho.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Arista Premium.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ars-imago films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Astrum films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/BCG P-400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Bergger Pancro 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Bluefire films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/CatLABS films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/CHM Universal.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/CineStill BwXX.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Contrasto 200.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Dry Plates.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Dubblefilm films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Eastman films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Efke 100.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Efke 25.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Efke 50.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Efke IR820.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/ERA films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Etude Pan.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ferrania P30.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Filmotec films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Foma Retropan 320.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Fomapan 100.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Fomapan 200.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Fomapan 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/FPP films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Fuji HR_RX_C.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Fuji Neopan 100ss.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Fuji Neopan 1600.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Fuji Neopan 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Fuji Neopan Acros II.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Fuji RDS 4791.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Holga 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ilford Delta 100.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ilford Delta 3200.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ilford Delta 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ilford FP4+.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ilford HP5+.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ilford Ortho+.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ilford Pan 100.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ilford Pan 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ilford Pan F+.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ilford SFX 200.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ilford Surveillance.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ilford XP2.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Imago 320.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/JCH Streetpan.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kentmere films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kiki Pan 320.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kodak 2*** films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kodak BW400CN.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kodak Direct Positive.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kodak Double-X.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kodak Hawkeye.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kodak HIE Infrared.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kodak Plus-X.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kodak TMax 100.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kodak TMax 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kodak TMax P3200.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kodak Tri-X 320.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kodak Tri-X 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Kosmo Foto films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Legacy Pro films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Lomo Babylon.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Lomo Berlin.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Lomo Earl Grey.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Lomo Fantome.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Lomo Lady Grey.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Lomo Orca 110.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Lomo Potsdam.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Low Speed B&W.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Lucky films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Maco films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/New Classic EZ400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/NoColorStudio films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Orwo films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Polypan F.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/ReraPan.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Rollei ATP_ATO.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Rollei Blackbird.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Rollei Infrared IR400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Rollei Ortho.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Rollei Paul & Reinhold.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Rollei Retro 400S.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Rollei Retro 80S.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Rollei RPX 100.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Rollei RPX 25.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Rollei RPX 400.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Rollei Superpan.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Santa RAE 1000.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Shanghai films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Silberra films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Street Candy.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Svema films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Tasma films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Type-D films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Ultrafine films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Films/Washi films.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/DevChartWebMvc.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/DevChartWebMvc.deps.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/DevChartWebMvc.runtimeconfig.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/DevChartWebMvc.pdb
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.CSharp.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.VisualBasic.Core.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.VisualBasic.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Win32.Primitives.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Win32.Registry.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.AppContext.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Buffers.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Collections.Concurrent.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Collections.Immutable.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Collections.NonGeneric.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Collections.Specialized.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Collections.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.ComponentModel.Annotations.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.ComponentModel.DataAnnotations.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.ComponentModel.EventBasedAsync.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.ComponentModel.Primitives.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.ComponentModel.TypeConverter.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.ComponentModel.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Configuration.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Console.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Core.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Data.Common.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Data.DataSetExtensions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Data.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Diagnostics.Contracts.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Diagnostics.Debug.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Diagnostics.DiagnosticSource.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Diagnostics.FileVersionInfo.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Diagnostics.Process.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Diagnostics.StackTrace.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Diagnostics.TextWriterTraceListener.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Diagnostics.Tools.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Diagnostics.TraceSource.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Diagnostics.Tracing.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Drawing.Primitives.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Drawing.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Dynamic.Runtime.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Formats.Asn1.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Globalization.Calendars.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Globalization.Extensions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Globalization.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.Compression.Brotli.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.Compression.FileSystem.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.Compression.ZipFile.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.Compression.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.FileSystem.AccessControl.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.FileSystem.DriveInfo.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.FileSystem.Primitives.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.FileSystem.Watcher.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.FileSystem.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.IsolatedStorage.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.MemoryMappedFiles.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.Pipes.AccessControl.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.Pipes.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.UnmanagedMemoryStream.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Linq.Expressions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Linq.Parallel.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Linq.Queryable.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Linq.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Memory.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.Http.Json.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.Http.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.HttpListener.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.Mail.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.NameResolution.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.NetworkInformation.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.Ping.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.Primitives.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.Quic.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.Requests.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.Security.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.ServicePoint.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.Sockets.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.WebClient.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.WebHeaderCollection.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.WebProxy.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.WebSockets.Client.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.WebSockets.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Net.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Numerics.Vectors.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Numerics.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.ObjectModel.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Private.CoreLib.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Private.DataContractSerialization.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Private.Uri.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Private.Xml.Linq.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Private.Xml.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Reflection.DispatchProxy.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Reflection.Emit.ILGeneration.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Reflection.Emit.Lightweight.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Reflection.Emit.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Reflection.Extensions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Reflection.Metadata.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Reflection.Primitives.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Reflection.TypeExtensions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Reflection.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Resources.Reader.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Resources.ResourceManager.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Resources.Writer.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.CompilerServices.Unsafe.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.CompilerServices.VisualC.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.Extensions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.Handles.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.InteropServices.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.Intrinsics.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.Loader.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.Numerics.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.Serialization.Formatters.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.Serialization.Json.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.Serialization.Primitives.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.Serialization.Xml.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.Serialization.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Runtime.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.AccessControl.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.Claims.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.Cryptography.Algorithms.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.Cryptography.Cng.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.Cryptography.Csp.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.Cryptography.Encoding.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.Cryptography.OpenSsl.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.Cryptography.Primitives.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.Cryptography.X509Certificates.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.Principal.Windows.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.Principal.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.SecureString.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.ServiceModel.Web.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.ServiceProcess.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Text.Encoding.CodePages.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Text.Encoding.Extensions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Text.Encoding.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Text.Encodings.Web.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Text.Json.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Text.RegularExpressions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Threading.Channels.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Threading.Overlapped.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Threading.Tasks.Dataflow.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Threading.Tasks.Extensions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Threading.Tasks.Parallel.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Threading.Tasks.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Threading.Thread.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Threading.ThreadPool.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Threading.Timer.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Threading.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Transactions.Local.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Transactions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.ValueTuple.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Web.HttpUtility.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Web.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Windows.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Xml.Linq.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Xml.ReaderWriter.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Xml.Serialization.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Xml.XDocument.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Xml.XPath.XDocument.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Xml.XPath.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Xml.XmlDocument.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Xml.XmlSerializer.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Xml.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/WindowsBase.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/mscorlib.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/netstandard.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Antiforgery.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Authentication.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Authorization.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Components.Forms.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Components.Server.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Components.Web.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Components.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Cors.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.DataProtection.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Diagnostics.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.HostFiltering.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Hosting.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Http.Connections.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Http.Features.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Http.Results.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Http.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.HttpLogging.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Identity.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Localization.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Metadata.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Mvc.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Razor.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Rewrite.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Routing.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Server.IIS.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.Session.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.SignalR.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.StaticFiles.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.WebSockets.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.WebUtilities.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.AspNetCore.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Caching.Memory.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Configuration.Binder.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Configuration.Ini.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Configuration.Json.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Configuration.Xml.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Configuration.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.DependencyInjection.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Features.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Hosting.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Http.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Identity.Core.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Identity.Stores.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Localization.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Logging.Configuration.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Logging.Console.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Logging.Debug.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Logging.EventLog.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Logging.EventSource.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Logging.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.ObjectPool.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Options.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.Primitives.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Extensions.WebEncoders.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.JSInterop.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Microsoft.Net.Http.Headers.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Diagnostics.EventLog.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.IO.Pipelines.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.Cryptography.Pkcs.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/System.Security.Cryptography.Xml.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/createdump
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/libSystem.Globalization.Native.so
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/libSystem.IO.Compression.Native.so
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/libSystem.Native.so
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/libSystem.Net.Security.Native.so
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/libSystem.Security.Cryptography.Native.OpenSsl.so
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/libclrjit.so
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/libcoreclr.so
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/libcoreclrtraceptprovider.so
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/libdbgshim.so
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/libhostfxr.so
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/libhostpolicy.so
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/libmscordaccore.so
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/libmscordbi.so
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/HtmlAgilityPack.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Jc.Net.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/Newtonsoft.Json.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/DevChartSpider.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartWebMvc/bin/Release/net6.0/linux-x64/publish/DevChartSpider.pdb

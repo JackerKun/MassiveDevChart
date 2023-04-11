@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevCharSpiderConsole/DevCharSpiderConsole.csproj": {}
+  },
+  "projects": {
+    "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevCharSpiderConsole/DevCharSpiderConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevCharSpiderConsole/DevCharSpiderConsole.csproj",
+        "projectName": "DevCharSpiderConsole",
+        "projectPath": "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevCharSpiderConsole/DevCharSpiderConsole.csproj",
+        "packagesPath": "/Users/jackerkun/.nuget/packages/",
+        "outputPath": "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevCharSpiderConsole/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jackerkun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "http://192.168.1.57:8081": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevChartSpider/DevChartSpider.csproj": {
+                "projectPath": "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevChartSpider/DevChartSpider.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevChartSpider/DevChartSpider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevChartSpider/DevChartSpider.csproj",
+        "projectName": "DevChartSpider",
+        "projectPath": "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevChartSpider/DevChartSpider.csproj",
+        "packagesPath": "/Users/jackerkun/.nuget/packages/",
+        "outputPath": "/Users/jackerkun/Projects/PublicTools/DevCharSpider/DevChartSpider/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jackerkun/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "http://192.168.1.57:8081": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.46, )"
+            },
+            "Jc.Net": {
+              "target": "Package",
+              "version": "[1.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

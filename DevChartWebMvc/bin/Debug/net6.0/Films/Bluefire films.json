@@ -1,0 +1,41 @@
+[
+  {
+    "FilmCode": "Bluefire%",
+    "DeveloperCode": null,
+    "FilmName": "Bluefire Pan 400",
+    "DeveloperName": "D-76",
+    "Dilution": "1+1",
+    "ISO": "400",
+    "Film35": "13",
+    "Film120": "13",
+    "Sheet": "",
+    "Temp": "20C",
+    "NotesUrl": ""
+  },
+  {
+    "FilmCode": "Bluefire%",
+    "DeveloperCode": null,
+    "FilmName": "Bluefire Pan 400",
+    "DeveloperName": "Df96 Monobath",
+    "Dilution": "stock",
+    "ISO": "400",
+    "Film35": "7",
+    "Film120": "7",
+    "Sheet": "",
+    "Temp": "22C",
+    "NotesUrl": "<a href=\"devchart.php?devrow=14669\">[notes]</a>"
+  },
+  {
+    "FilmCode": "Bluefire%",
+    "DeveloperCode": null,
+    "FilmName": "Bluefire Police",
+    "DeveloperName": "Bluefire HR",
+    "Dilution": "stock",
+    "ISO": "80",
+    "Film35": "15",
+    "Film120": "",
+    "Sheet": "",
+    "Temp": "20C",
+    "NotesUrl": ""
+  }
+]

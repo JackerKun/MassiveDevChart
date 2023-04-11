@@ -1,0 +1,10 @@
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartSpider/bin/Release/netstandard2.1/DevChartSpider.deps.json
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartSpider/bin/Release/netstandard2.1/DevChartSpider.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartSpider/bin/Release/netstandard2.1/DevChartSpider.pdb
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartSpider/obj/Release/netstandard2.1/DevChartSpider.csproj.AssemblyReference.cache
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartSpider/obj/Release/netstandard2.1/DevChartSpider.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartSpider/obj/Release/netstandard2.1/DevChartSpider.AssemblyInfoInputs.cache
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartSpider/obj/Release/netstandard2.1/DevChartSpider.AssemblyInfo.cs
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartSpider/obj/Release/netstandard2.1/DevChartSpider.csproj.CoreCompileInputs.cache
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartSpider/obj/Release/netstandard2.1/DevChartSpider.dll
+/Users/jackerkun/Projects/PublicTools/DevChartSpider/DevChartSpider/obj/Release/netstandard2.1/DevChartSpider.pdb
