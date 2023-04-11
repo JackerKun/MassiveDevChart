@@ -6,7 +6,7 @@ using DevChartSpider;
 DevChart devChart = new DevChart();
 
 //网络抓取数据
-// var GrabData = devChart.GrabDevChart();
+var GrabData = devChart.GrabDevChart();
 
 //加载缓存数据
 var result= devChart.LoadDevChart();
